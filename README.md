@@ -7,6 +7,10 @@ Aprende Ruby on Rails con vídeo-tutoriales de video2brain, platzi, devcode, oja
 
 ## Link de descargar | http://linkshrink.net/7xAvXJ
 
+### Contenido
+
+![Rails Logo](http://lonewolf.hol.es/blog/wp-content/uploads/2016/07/Rails-1024x230.png)
+
 Ruby on Rails, también conocido como RoR o Rails es un framework de aplicaciones web de código abierto escrito en el lenguaje de programación Ruby. Trabaja según el paradigma de la arquitectura Modelo Vista Controlador (MVC) y está pensado para aumentar la productividad y a la vez mantener el código limpio y legible.
 Los principios fundamentales de Ruby on Rails incluyen No te repitas (Don't repeat yourself, DRY) y Convención sobre configuración.
 La versión actual es la 4.2.1.
